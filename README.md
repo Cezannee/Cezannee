@@ -124,9 +124,11 @@ My approach is simple: **Understand the system. Build the solution. Improve cont
 # 06 // CONTRIBUTION RECORD
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Cezannee/Cezannee/output/github-snake-dark.svg" width="100%" alt="Contribution map"/>
-
+  <img
+    src="https://raw.githubusercontent.com/Cezannee/Cezannee/output/github-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
 </div>
 
 ---
