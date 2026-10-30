@@ -214,23 +214,42 @@ A web-based content management system developed using Laravel 13 during practica
 
 ---
 
+
+
 # 05 // SYSTEM TELEMETRY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cezannee&show_icons=true&hide_border=true&bg_color=101110&title_color=FFFA00&text_color=E8E8E2&icon_color=FFFA00&ring_color=FFFA00" width="49%" />
+<img
+  src="https://github-stats-extended.vercel.app/api?username=Cezannee&show_icons=true&hide_border=true&bg_color=101110&title_color=FFFA00&text_color=E8E8E2&icon_color=FFFA00&ring_color=FFFA00"
+  width="49%"
+  alt="Cezannee GitHub Statistics"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cezannee&layout=compact&hide_border=true&bg_color=101110&title_color=FFFA00&text_color=E8E8E2" width="49%" />
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs?username=Cezannee&layout=compact&hide_border=true&bg_color=101110&title_color=FFFA00&text_color=E8E8E2"
+  width="49%"
+  alt="Cezannee Top Languages"
+/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Cezannee&hide_border=true&background=101110&ring=FFFA00&fire=FFFA00&currStreakLabel=FFFA00&sideLabels=E8E8E2&currStreakNum=E8E8E2&sideNums=E8E8E2&dates=888888" width="85%" />
+<img
+  src="https://streak-stats.demolab.com?user=Cezannee&hide_border=true&background=101110&ring=FFFA00&fire=FFFA00&currStreakLabel=FFFA00&sideLabels=E8E8E2&currStreakNum=E8E8E2&sideNums=E8E8E2&dates=888888"
+  width="85%"
+  alt="GitHub Contribution Streak"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cezannee&bg_color=101110&color=E8E8E2&line=FFFA00&point=FFFA00&area=true&hide_border=true" width="100%" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Cezannee&bg_color=101110&color=E8E8E2&line=FFFA00&point=FFFA00&area=true&hide_border=true"
+  width="100%"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
+
 
 ---
 
