@@ -1,21 +1,24 @@
- <div align="center">
+<!-- HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=101110&height=190&section=header&text=CEZANNEE&fontSize=68&fontColor=FFFA00&fontAlignY=40&desc=ENGINEERING%20THE%20DIGITAL%20FRONTIER&descSize=14&descColor=E8E8E2&animation=fadeIn" width="100%" />
+<div align="center">
+
+<img src="URL_BANNER_KAMU" width="100%" />
+
+<!-- ANIMATED INTRO -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=14&duration=3500&pause=1000&color=FFFA00&center=true&vCenter=true&width=650&lines=INFORMATION+TECHNOLOGY+STUDENT;WEB+DEVELOPMENT+%2F+NETWORK+ENGINEERING;ARTIFICIAL+INTELLIGENCE+%2F+LINUX+SYSTEMS;BUILDING+SOLUTIONS+BEYOND+THE+FRONTIER" />
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Cezannee&label=PROFILE+VIEWS&color=FFFA00&style=flat-square&labelColor=101110)
-![GitHub Followers](https://img.shields.io/github/followers/Cezannee?label=FOLLOWERS&style=flat-square&color=FFFA00&labelColor=101110)
-![GitHub Stars](https://img.shields.io/github/stars/Cezannee?label=TOTAL+STARS&style=flat-square&color=FFFA00&labelColor=101110)
-
-<br/>
 
 `[ OPERATOR ID: CEZANNEE ]` &nbsp; ` [ STATUS: ONLINE ]`
 
 </div>
 
+---
+
+# 01 // OPERATOR PROFILE
 ---
 
 # 01 // OPERATOR PROFILE
