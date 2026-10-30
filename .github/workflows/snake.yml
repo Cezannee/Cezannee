@@ -1,5 +1,5 @@
 
-name: Generate Contribution Snake
+name: Generate Endfield Contribution Snake
 
 on:
   schedule:
@@ -14,13 +14,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
+      - name: Generate Endfield Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Cezannee
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=%23FFFA00&color_dots=%2320221F,%2355594A,%2392977A,%23C6CB9C,%23FFFA00
+            dist/github-snake-dark.svg?color_snake=%23FFFA00&color_dots=%2320221F,%2355594A,%2392977A,%23C6CB9C,%23FFFA00
 
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
