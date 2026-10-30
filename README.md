@@ -18,8 +18,6 @@
 
 ---
 
-# 01 // OPERATOR PROFILE
----
 
 # 01 // OPERATOR PROFILE
 
