@@ -1,22 +1,18 @@
-<!--
-  CEZANNEE // ENDFIELD INDUSTRIAL INTERFACE
--->
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=101110&height=190&section=header&text=CEZANNEE&fontSize=68&fontColor=FFFA00&fontAlignY=40&desc=ENGINEERING%20THE%20DIGITAL%20FRONTIER&descSize=14&descColor=E8E8E2&animation=fadeIn" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=101110&height=180&section=header&text=CEZANNEE&fontSize=65&fontColor=FFFA00&fontAlignY=43&desc=ENGINEERING%20THE%20DIGITAL%20FRONTIER&descSize=13&descColor=E8E8E2&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=14&duration=3500&pause=1000&color=FFFA00&center=true&vCenter=true&width=650&lines=INFORMATION+TECHNOLOGY+STUDENT;WEB+DEVELOPMENT+%2F+NETWORK+ENGINEERING;ARTIFICIAL+INTELLIGENCE+%2F+LINUX+SYSTEMS;BUILDING+SOLUTIONS+BEYOND+THE+FRONTIER" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=14&duration=3500&pause=1000&color=FFFA00&center=true&vCenter=true&width=600&lines=INFORMATION+TECHNOLOGY+STUDENT;WEB+DEVELOPMENT+%2F+NETWORK+ENGINEERING;ARTIFICIAL+INTELLIGENCE+%2F+LINUX+SYSTEMS;BUILDING+SOLUTIONS+BEYOND+THE+FRONTIER" />
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Cezannee&label=PROFILE+VIEWS&color=FFFA00&style=flat-square&labelColor=101110)
+![GitHub Followers](https://img.shields.io/github/followers/Cezannee?label=FOLLOWERS&style=flat-square&color=FFFA00&labelColor=101110)
+![GitHub Stars](https://img.shields.io/github/stars/Cezannee?label=TOTAL+STARS&style=flat-square&color=FFFA00&labelColor=101110)
 
 <br/>
 
 `[ OPERATOR ID: CEZANNEE ]` &nbsp; ` [ STATUS: ONLINE ]`
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GITHUB-CEZANNEE-101110?style=flat-square&logo=github&logoColor=FFFA00)](https://github.com/Cezannee)
-![Developer](https://img.shields.io/badge/CLASS-DEVELOPER-FFFA00?style=flat-square&labelColor=101110)
-![Status](https://img.shields.io/badge/SYSTEM-ONLINE-101110?style=flat-square&logo=statuspage&logoColor=FFFA00)
 
 </div>
 
@@ -26,18 +22,31 @@
 
 > **INFORMATION TECHNOLOGY / DIGITAL ENGINEERING**
 
-Hello, I'm **Cezannee** — an Information Technology student interested in engineering software, exploring intelligent systems, and building reliable IT infrastructure.
+Hello! I'm **Cezannee**, an Information Technology student with a strong interest in software development, computer networking, artificial intelligence, and Linux systems.
 
-I work across different areas of technology, from developing web applications to understanding computer networks and experimenting with local Artificial Intelligence.
+I enjoy exploring how technology works, developing practical applications, and experimenting with different computing environments.
 
-My approach is simple: **Understand the system. Build the solution. Improve continuously.**
+My technical journey combines software engineering and IT infrastructure, with a focus on continuously learning and building real-world solutions.
+
+### PERSONAL INFORMATION
+
+| Classification | Details |
+|:---|:---|
+| Designation | Information Technology Student |
+| Primary Interest | Web Development |
+| Infrastructure | Computer Networking |
+| Exploration | Artificial Intelligence |
+| Operating System | Arch Linux |
+| Development Stack | PHP / Laravel |
+| Environment | Linux |
 
 ### CURRENT DIRECTIVES
 
-- `01` — Develop modern web applications using PHP and Laravel.
-- `02` — Explore networking, routing, switching, and infrastructure.
+- `01` — Develop web applications using PHP and Laravel.
+- `02` — Explore networking infrastructure, routing, and switching.
 - `03` — Experiment with Artificial Intelligence and local LLM systems.
-- `04` — Explore Linux environments and system administration.
+- `04` — Explore Linux administration and system configuration.
+- `05` — Build projects and expand practical technical experience.
 
 ---
 
@@ -46,7 +55,7 @@ My approach is simple: **Understand the system. Build the solution. Improve cont
 ### SOFTWARE ENGINEERING
 
 ![PHP](https://img.shields.io/badge/PHP-101110?style=flat-square&logo=php&logoColor=FFFA00)
-![Laravel](https://img.shields.io/badge/LARAVEL-101110?style=flat-square&logo=laravel&logoColor=FFFA00)
+![Laravel](https://img.shields.io/badge/LARAVEL_13-101110?style=flat-square&logo=laravel&logoColor=FFFA00)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-101110?style=flat-square&logo=javascript&logoColor=FFFA00)
 ![HTML5](https://img.shields.io/badge/HTML5-101110?style=flat-square&logo=html5&logoColor=FFFA00)
 ![CSS3](https://img.shields.io/badge/CSS3-101110?style=flat-square&logo=css3&logoColor=FFFA00)
@@ -58,10 +67,24 @@ My approach is simple: **Understand the system. Build the solution. Improve cont
 ![Networking](https://img.shields.io/badge/NETWORKING-101110?style=flat-square&logo=cloudflare&logoColor=FFFA00)
 ![Packet Tracer](https://img.shields.io/badge/PACKET_TRACER-101110?style=flat-square&logo=cisco&logoColor=FFFA00)
 
+**Technical Areas**
+
+- Routing and Switching
+- VLAN Configuration
+- Network Infrastructure
+- Network Troubleshooting
+- Cisco Device Configuration
+
 ### ARTIFICIAL INTELLIGENCE
 
 ![OpenAI](https://img.shields.io/badge/AI_EXPLORATION-101110?style=flat-square&logo=openai&logoColor=FFFA00)
 ![LLM](https://img.shields.io/badge/LOCAL_LLM-101110?style=flat-square&logo=ollama&logoColor=FFFA00)
+
+**Areas of Interest**
+
+- Large Language Models (LLM)
+- Local AI Experimentation
+- AI-powered Chatbots
 
 ### SYSTEMS & ENVIRONMENT
 
@@ -71,33 +94,123 @@ My approach is simple: **Understand the system. Build the solution. Improve cont
 ![GitHub](https://img.shields.io/badge/GITHUB-101110?style=flat-square&logo=github&logoColor=FFFA00)
 ![VS Code](https://img.shields.io/badge/VSCODE-101110?style=flat-square&logo=visualstudiocode&logoColor=FFFA00)
 
+**Technical Environment**
+
+- Arch Linux
+- Linux Package Management
+- System Configuration
+- Git Version Control
+- Development Environment Setup
+
 ---
 
 # 03 // FIELD EXPERIENCE
 
-| Classification | Experience |
-|:---|:---|
-| WEB ENGINEERING | Laravel 13 Web Content Management |
-| NETWORK ENGINEERING | Cisco Switching & Routing |
-| SYSTEM ENVIRONMENT | Arch Linux / Linux Administration |
-| AI DEVELOPMENT | Local LLM-Based Chatbot |
+### `FIELD 001` / WEB ENGINEERING
+
+**Laravel 13 — Web Content Management System**
+
+`PT DIGI HERBA NUSANTARA` · `APR — JUL 2026`
+
+Completed practical work experience developing a web-based content management system using Laravel 13.
+
+![Laravel](https://img.shields.io/badge/LARAVEL_13-101110?style=flat-square&logo=laravel&logoColor=FFFA00)
+![PHP](https://img.shields.io/badge/PHP-101110?style=flat-square&logo=php&logoColor=FFFA00)
+
+---
+
+### `FIELD 002` / NETWORK ENGINEERING
+
+**Cisco Switching & Routing**
+
+Hands-on networking practice involving VLAN configuration, routing, switching, network topology, and troubleshooting using Cisco Packet Tracer.
+
+![Cisco](https://img.shields.io/badge/CISCO-101110?style=flat-square&logo=cisco&logoColor=FFFA00)
+![Packet Tracer](https://img.shields.io/badge/PACKET_TRACER-101110?style=flat-square&logo=cisco&logoColor=FFFA00)
+
+---
+
+### `FIELD 003` / SYSTEM ENVIRONMENT
+
+**Arch Linux / Linux Administration**
+
+Exploring Linux environments through system configuration, package management, software installation, and troubleshooting.
+
+![Arch Linux](https://img.shields.io/badge/ARCH_LINUX-101110?style=flat-square&logo=archlinux&logoColor=FFFA00)
+![Linux](https://img.shields.io/badge/LINUX-101110?style=flat-square&logo=linux&logoColor=FFFA00)
+
+---
+
+### `FIELD 004` / ARTIFICIAL INTELLIGENCE
+
+**Local LLM-Based Chatbot**
+
+Exploring conversational AI through a chatbot project based on locally hosted Large Language Models.
+
+![AI](https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-101110?style=flat-square&logo=openai&logoColor=FFFA00)
+![LLM](https://img.shields.io/badge/LOCAL_LLM-101110?style=flat-square&logo=ollama&logoColor=FFFA00)
+
+---
 
 ### CERTIFICATION & TRAINING
 
-- Cisco CCNA — Switching, Routing and Network Essentials.
+![Cisco](https://img.shields.io/badge/CISCO_CCNA-FFFA00?style=for-the-badge&labelColor=101110&logo=cisco&logoColor=101110)
+
+**CCNA — Switching, Routing and Network Essentials**
 
 ---
 
 # 04 // PROJECT ARCHIVE
 
-| ID | PROJECT | CLASSIFICATION |
-|:---|:---|:---|
-| 001 | Web Portfolio | Web Development |
-| 002 | Android Application | Mobile Development |
-| 003 | Local LLM Chatbot | Artificial Intelligence |
-| 004 | Laravel Web CMS | Backend Engineering |
+### `PROJECT 001` / WEB DEVELOPMENT
 
-> More projects and technical experiments will be documented as development progresses.
+**WEB PORTFOLIO**
+
+A personal portfolio showcasing development projects, technical interests, and professional profile.
+
+![WEB](https://img.shields.io/badge/WEB_DEVELOPMENT-101110?style=flat-square&logo=googlechrome&logoColor=FFFA00)
+
+---
+
+### `PROJECT 002` / MOBILE DEVELOPMENT
+
+**ANDROID APPLICATION**
+
+An Android application development project focused on mobile software development.
+
+![ANDROID](https://img.shields.io/badge/ANDROID-101110?style=flat-square&logo=android&logoColor=FFFA00)
+
+---
+
+### `PROJECT 003` / ARTIFICIAL INTELLIGENCE
+
+**LOCAL LLM CHATBOT**
+
+An experimental chatbot project exploring locally hosted Large Language Models and AI-powered conversations.
+
+![AI](https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-101110?style=flat-square&logo=openai&logoColor=FFFA00)
+![LLM](https://img.shields.io/badge/LOCAL_LLM-101110?style=flat-square&logo=ollama&logoColor=FFFA00)
+
+---
+
+### `PROJECT 004` / BACKEND ENGINEERING
+
+**LARAVEL WEB CMS**
+
+A web-based content management system developed using Laravel 13 during practical work experience.
+
+![LARAVEL](https://img.shields.io/badge/LARAVEL_13-101110?style=flat-square&logo=laravel&logoColor=FFFA00)
+![PHP](https://img.shields.io/badge/PHP-101110?style=flat-square&logo=php&logoColor=FFFA00)
+
+---
+
+<div align="center">
+
+`END OF PROJECT RECORDS`
+
+![STATUS](https://img.shields.io/badge/DATABASE-MORE_PROJECTS_INCOMING-FFFA00?style=flat-square&labelColor=101110)
+
+</div>
 
 ---
 
@@ -124,11 +237,9 @@ My approach is simple: **Understand the system. Build the solution. Improve cont
 # 06 // CONTRIBUTION RECORD
 
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Cezannee/Cezannee/output/github-snake-dark.svg"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  />
+
+<img src="https://raw.githubusercontent.com/Cezannee/Cezannee/output/github-snake.svg" width="100%" alt="Endfield Contribution Snake" />
+
 </div>
 
 ---
@@ -139,9 +250,9 @@ My approach is simple: **Understand the system. Build the solution. Improve cont
 
 **END OF TRANSMISSION**
 
-Interested in technology, collaboration, or building something meaningful?
+Interested in technology, collaboration, and building meaningful digital solutions?
 
-Explore my repositories and follow my development journey.
+Feel free to explore my repositories and follow my development journey.
 
 <br/>
 
@@ -153,6 +264,6 @@ Explore my repositories and follow my development journey.
 
 **BUILD. CONNECT. ENGINEER.**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=101110&height=75&section=footer&text=CEZANNEE%20INDUSTRIES&fontSize=18&fontColor=FFFA00&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=101110&height=100&section=footer&text=CEZANNEE%20INDUSTRIES&fontSize=22&fontColor=FFFA00&fontAlignY=55" width="100%" />
 
 </div>
