@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="URL_BANNER_KAMU" width="100%" />
+<img src="assets/banner.png" width="100%" />
 
 <!-- ANIMATED INTRO -->
 
